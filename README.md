@@ -10,19 +10,19 @@
 
 ## 预览
 
-### 在线预览
+### 网页预览
 
-- 
-- 
+- [mo-dark-min](https://doraemonkeys.github.io/typora-theme/preview/mo-dark-min.html)
+- [redrail-min](https://doraemonkeys.github.io/typora-theme/preview/redrail-min.html)
 
 
 
 ### redrail
 
-![image-20230531021913677](E:/Doraemon/Pictures/Typora/2023002/image-20230531021913677.png)
+![](https://raw.githubusercontent.com/Doraemonkeys/picture/master/1/202305310239035.png)
 
 
 
 ### mo-dark
 
-![image-20230531022028815](E:/Doraemon/Pictures/Typora/2023002/image-20230531022028815.png)
+![](https://raw.githubusercontent.com/Doraemonkeys/picture/master/1/202305310239411.png)
