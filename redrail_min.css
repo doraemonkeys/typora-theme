@@ -55,8 +55,8 @@ body {
     -webkit-font-smoothing: antialiased;
     /*line-height: 1.8rem;*/
 
-    /* 这里原本少了个分号，但显示效果良好，不敢动，所以先注释一下 */
-    line-height: 17px letter-spacing: 0;
+    /* 这里原本少了个分号，但显示效果良好，不敢动，所以先注释了 */
+    /* line-height: 17px letter-spacing: 0; */
     margin: 0;
     overflow-x: hidden;
 }
