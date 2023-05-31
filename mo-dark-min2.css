@@ -33,6 +33,20 @@ strong {
     font-size: 120%;
 }
 
+/* mermaid 图形 */
+.label-container {
+    /* stroke: #3d9565 !important; */
+    /* stroke: #288d37 !important; */
+    /* stroke: #4d9a58 !important; */
+    stroke: #2f845e !important;
+}
+
+:root {
+    /* set mermaid to dark theme */
+    --mermaid-theme: dark;
+}
+
+
 
 html,
 body {
