@@ -452,13 +452,17 @@ hr {
     font-size: 1rem;
 }
 
-/* math,html block common */
-.mathjax-block,
-.md-htmlblock {
+/* math block */
+.mathjax-block {
     -webkit-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
     box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
     border-radius: 6px;
     background-color: #222526;
+}
+
+.md-htmlblock {
+    background-color: #181a1b;
+    margin-top: 0px;
 }
 
 .mathjax-block[contenteditable="false"]:active,
